@@ -1,0 +1,6 @@
+round,loss,accuracy,f1,recall,precision,auc,num_examples,clipping_norm,dp_noise_stddev,privacy_budget,nsr
+1,,,,,,,,0.5,4.0,8.0,8.0
+2,,,,,,,,0.5,4.0,11.31370849898476,8.0
+3,,,,,,,,0.5,4.0,13.856406460551018,8.0
+4,,,,,,,,0.5,4.0,16.0,8.0
+5,,,,,,,,0.5,4.0,17.88854381999832,8.0

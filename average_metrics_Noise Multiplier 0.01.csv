@@ -1,0 +1,5 @@
+Metode,Accuracy,Recall,F1-Score,Precision,AUC
+Adaptive & Client,42.7%,53.7%,48.5%,44.1%,42.7%
+Fixed & Client,72.5%,91.2%,76.9%,66.4%,84.9%
+Adaptive & Server,56.7%,48.4%,52.8%,58.0%,56.1%
+Fixed & Server,80.6%,92.2%,82.6%,74.8%,92.1%
