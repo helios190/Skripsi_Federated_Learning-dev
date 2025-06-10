@@ -1,6 +1,3 @@
-round,loss,accuracy,f1,recall,precision,auc,num_examples,clipping_norm,dp_noise_stddev,privacy_budget,nsr
-1,,,,,,,,0.5,5.0,10.0,10.0
-2,,,,,,,,0.5,5.0,14.142135623730953,10.0
-3,,,,,,,,0.5,5.0,17.32050807568877,10.0
-4,,,,,,,,0.5,5.0,20.0,10.0
-5,,,,,,,,0.5,5.0,22.360679774997894,10.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e2f3630d9df882588997d0f63b8c73d73bcc2c7ae2cb45d71d5f1a7cbbab286
+size 282
